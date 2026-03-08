@@ -128,7 +128,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Join
         url: /
         icon: arrowRight
         iconPosition: right
