@@ -3,7 +3,7 @@ title: The Collective
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: About us
       color: text-dark
       styles:
         self:
