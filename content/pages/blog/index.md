@@ -9,7 +9,7 @@ styles:
     textAlign: center
 seo:
   metaTitle: Blog
-  metaDescription: ''
+  metaDescription: desc
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
