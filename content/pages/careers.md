@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: The Collective
 slug: careers
 sections:
   - title:
