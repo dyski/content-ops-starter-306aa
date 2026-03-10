@@ -53,8 +53,9 @@ sections:
         title: Nursery Basics
         tagline: For Children
         subtitle: The Barn Nursery
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Providing Toddlers ages 2-4 with some basic knowledge and
+          understanding.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
