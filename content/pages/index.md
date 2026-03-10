@@ -132,8 +132,9 @@ sections:
       color: text-dark
     subtitle: Rosweyth Kernewek Porthia
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Engaging all ages through active use: from early-years learning to
+      community shanties, we ensure the Cornish language is a functional tool
+      for everyone.
     actions:
       - type: Button
         label: Get started
