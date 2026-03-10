@@ -231,31 +231,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - type: GenericSection
-    title:
-      text: St Ives Cornish Language Network
-      color: text-dark
-      type: TitleBlock
-    subtitle: Rosweyth Kernewek Porthia
-    text: >
-      Engaging all ages through active use: from early-years learning to adults,
-      we ensure the Cornish language is a functional tool for everyone.
-    actions: []
-    badge:
-      label: welcome
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
