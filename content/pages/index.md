@@ -74,7 +74,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Evening Class
+        title: Evening Classes
         tagline: Adult Evening Classes
         subtitle: This is the item subtitle
         text: |
