@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Rosweyth Kernewek Porthia
     text: >
-      Engaging all ages through active use: from early-years learning to
-      community shanties, we ensure the Cornish language is a functional tool
-      for everyone.
+      Engaging all ages through active use: from early-years learning to adults,
+      we ensure the Cornish language is a functional tool for everyone.
     actions: []
     badge:
       label: welcome
