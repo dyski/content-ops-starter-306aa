@@ -150,7 +150,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/PXL_20221129_191315773.jpg
+      url: /images/abstract-feature1.svg
       altText: Dope design preview
     badge:
       type: Badge
