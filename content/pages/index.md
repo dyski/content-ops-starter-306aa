@@ -78,7 +78,7 @@ sections:
         tagline: Adult Evening Classes
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          Adult classes for beginners every Tuesday 6pm
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
