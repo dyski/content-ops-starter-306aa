@@ -50,7 +50,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Nursery Basics
         tagline: For Children
         subtitle: This is the item subtitle
         text: |
