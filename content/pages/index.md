@@ -52,7 +52,7 @@ sections:
       - type: FeaturedItem
         title: Nursery Basics
         tagline: For Children
-        subtitle: This is the item subtitle
+        subtitle: The Barn Nursery
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
