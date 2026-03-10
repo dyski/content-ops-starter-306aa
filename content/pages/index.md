@@ -128,7 +128,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: St Ives Cornish Language Network
       color: text-dark
     subtitle: Be in good company
     text: >
