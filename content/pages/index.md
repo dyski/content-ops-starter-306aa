@@ -154,7 +154,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: Welcomne
+      label: Welcome
       color: text-primary
     colors: bg-light-fg-dark
     styles:
