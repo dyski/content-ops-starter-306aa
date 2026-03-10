@@ -98,7 +98,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Facebook
         tagline: Online
         subtitle: This is the item subtitle
         text: |
