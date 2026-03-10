@@ -14,7 +14,7 @@ sections:
       git commit, git workflows and collaboration just work.
     actions: []
     badge:
-      label: This is a badge
+      label: welcome
       color: text-primary
       type: Badge
     elementId: ''
