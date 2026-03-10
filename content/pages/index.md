@@ -71,7 +71,7 @@ sections:
           Adult classes for beginners every Tuesday 6pm
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/PXL_20221129_191315773.jpg
           altText: Placeholder image
           styles:
             self:
