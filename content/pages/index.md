@@ -47,7 +47,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: For all ages and abilities
     items:
       - type: FeaturedItem
         title: Nursery Basics
