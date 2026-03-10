@@ -102,8 +102,9 @@ sections:
         title: Facebook
         tagline: Online
         subtitle: Cornish Made Easy
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Simple, visual guides that break down the basics of the language for
+          absolute beginners.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
