@@ -96,7 +96,7 @@ sections:
           absolute beginners.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/545268074_778651291414351_3022122300842188830_n.jpg
           altText: Placeholder image
           styles:
             self:
