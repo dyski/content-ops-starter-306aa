@@ -75,7 +75,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Evening Classes
-        tagline: Adult Evening Classes
+        tagline: For Adults
         subtitle: This is the item subtitle
         text: |
           Adult classes for beginners every Tuesday 6pm
