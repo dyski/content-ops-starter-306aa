@@ -47,7 +47,7 @@ sections:
           understanding.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/110168894_2794767047426362_6361604362068463554_n.jpg
           altText: Placeholder image
           styles:
             self:
