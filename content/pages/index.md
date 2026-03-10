@@ -353,43 +353,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: St Ives Cornish Language Network
-      color: text-dark
-    subtitle: Rosweyth Kernewek Porthia
-    text: >
-      Engaging all ages through active use: from early-years learning to
-      community shanties, we ensure the Cornish language is a functional tool
-      for everyone.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/abstract-feature1.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: Welcome
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
