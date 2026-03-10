@@ -77,7 +77,7 @@ sections:
       - type: FeaturedItem
         title: Evening Classes
         tagline: For Adults
-        subtitle: This is the item subtitle
+        subtitle: St Ives Town
         text: |
           Adult classes for beginners every Tuesday 6pm
         image:
