@@ -100,7 +100,7 @@ sections:
       - type: FeaturedItem
         title: Facebook
         tagline: Online
-        subtitle: This is the item subtitle
+        subtitle: Cornish Made Easy
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
