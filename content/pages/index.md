@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Rosweyth Kernewek Porthia
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Engaging all ages through active use: from early-years learning to
+      community shanties, we ensure the Cornish language is a functional tool
+      for everyone.
     actions: []
     badge:
       label: welcome
